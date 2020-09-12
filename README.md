@@ -4,7 +4,7 @@ time start -> 9 am
 
 ### Project Title
 
-US Bikeshare Data
+Bikeshare Data
 
 ### Description
 
