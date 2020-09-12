@@ -1,5 +1,6 @@
 ### Date created
-9/12/2020
+9/12/2020  
+time start -> 9 am
 
 ### Project Title
 
